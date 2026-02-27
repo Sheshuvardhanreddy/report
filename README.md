@@ -1,5 +1,5 @@
 
-# **Affordable Ocean Lamp with LED Light Effects and Realistic Wave Illumination**
+# **DESIGN AND IMPLEMENTATION OF WIFI ENABALED SMART RGB LIGHTING SYSTEM**
 
 ---
 
