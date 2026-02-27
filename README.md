@@ -270,4 +270,3 @@ It stands as a scalable and innovative solution in the growing decorative lighti
 
 ---
 
-# report
