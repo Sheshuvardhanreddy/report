@@ -1,7 +1,7 @@
 
 # **DESIGN AND IMPLEMENTATION OF WIFI ENABALED SMART RGB LIGHTING SYSTEM**
 
----
+
 
 ## **Executive Summary**
 
@@ -13,7 +13,7 @@ The device operates through simple button control or remote-based adjustment, al
 
 This project emphasizes aesthetic design, energy efficiency, affordability, and emotional well-being through ambient lighting technology.
 
----
+
 
 ## **Market Relevance**
 
@@ -31,7 +31,7 @@ The Ocean Lamp appeals to:
 
 As smart homes and personalized lighting environments become more popular, affordable aesthetic lighting products like the Ocean Lamp have strong commercial potential.
 
----
+
 
 ## **Problem It Aims to Solve**
 
@@ -57,7 +57,7 @@ Traditional lighting systems consume more electricity and generate heat.
 
 The Ocean Lamp addresses these issues by providing an affordable, energy-efficient, and visually soothing lighting solution.
 
----
+
 
 ## **Goal**
 
@@ -71,7 +71,7 @@ It aims to:
 * Ensure user-friendly operation
 * Enhance interior décor with minimal cost
 
----
+
 
 ## **Market Size**
 
@@ -89,7 +89,7 @@ Mood lighting products are gaining popularity in homes, offices, gaming setups, 
 
 The Ocean Lamp fits within the affordable decorative and ambient LED lighting segment, offering high visual appeal at low cost.
 
----
+
 
 ## **Design Features**
 
@@ -102,7 +102,7 @@ The Ocean Lamp fits within the affordable decorative and ambient LED lighting se
 • **Safe Construction:** Electrically insulated base and water-resistant materials.
 • **Rechargeable Power Supply:** USB charging or adapter-based operation.
 
----
+
 
 # **INTRODUCTION**
 
@@ -114,7 +114,7 @@ Additionally, excessive exposure to harsh lighting can contribute to eye strain 
 
 This project addresses this gap by developing an Ocean Lamp that produces realistic wave-like LED effects in a compact, safe, and user-friendly design.
 
----
+
 
 ## **Purpose**
 
@@ -129,7 +129,7 @@ The lamp is designed to:
 
 It also serves as an introductory project for understanding LED systems, lighting control, and electronic integration.
 
----
+
 
 # **SCOPE**
 
@@ -141,7 +141,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 • Meditation and wellness centers
 • Gift product buyers
 
----
+
 
 ## **Core Functionality:**
 
@@ -150,14 +150,14 @@ It also serves as an introductory project for understanding LED systems, lightin
 • Realistic wave lighting projection
 • Energy-efficient operation
 
----
+
 
 ## **Input Options:**
 
 • Remote control operation
 • On-board manual switch
 
----
+
 
 ## **Output & Visualization:**
 
@@ -165,14 +165,14 @@ It also serves as an introductory project for understanding LED systems, lightin
 • Color transitions and soft glow
 • Visual ambiance enhancement
 
----
+
 
 ## **Platform Compatibility:**
 
 • Standalone LED-based lighting system
 • Rechargeable battery or direct power adapter
 
----
+
 
 ## **Future Enhancements**
 
@@ -183,7 +183,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 • Motion sensor activation
 • Adjustable wave projection motor
 
----
+
 
 # **GAP ANALYSIS**
 
@@ -194,7 +194,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 • Limited color customization in basic lamps.
 • Lack of affordable ocean-themed lighting solutions.
 
----
+
 
 ### 2. Desired State (Ideal Solution)
 
@@ -204,7 +204,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 ✔ Energy-efficient and long-lasting
 ✔ Expandable with smart features
 
----
+
 
 # **PRODUCT DESCRIPTION**
 
@@ -212,7 +212,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 • Built using RGB LED strips and textured acrylic housing.
 • Ideal for home décor, relaxation, and aesthetic enhancement.
 
----
+
 
 ## **1. KEY FEATURES**
 
@@ -224,7 +224,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 ✅ Safe Electrical Isolation
 ✅ Rechargeable or Direct Power Option
 
----
+
 
 ## **2. TECHNICAL SPECIFICATIONS**
 
@@ -235,7 +235,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 🔹 Lighting Modes – Static, fade, flash, smooth
 🔹 Lifespan – Long-lasting LED system
 
----
+
 
 # **COMPARISON OF THE PRODUCT**
 
@@ -247,7 +247,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 | Aesthetic Appeal  | Basic            | Decorative & modern    |
 | Expandability     | None             | Smart upgrade possible |
 
----
+
 
 # **UNIQUENESS OF THE PRODUCT**
 
@@ -258,7 +258,7 @@ It also serves as an introductory project for understanding LED systems, lightin
 ✔ Customizable Color Modes
 ✔ Suitable for Multiple Indoor Applications
 
----
+
 
 # **CONCLUSION**
 
@@ -268,5 +268,5 @@ The product is affordable, compact, and user-friendly, making it suitable for ho
 
 It stands as a scalable and innovative solution in the growing decorative lighting market.
 
----
+
 
